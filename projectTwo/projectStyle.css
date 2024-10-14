@@ -1,0 +1,106 @@
+
+body {
+
+    background-color:rgb(235, 255, 201);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    line-height: 1.5;
+
+}
+
+h1 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    margin: auto;
+    width: 100%;
+    padding: 50px;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    color:rgb(235, 255, 201);
+    border: 5px solid rgb(21, 49, 17);
+
+}
+
+#welcome {
+
+    background-image: url(/projectTwo/images/thread-961671_1280.jpg);
+}
+
+#projectExamples {
+
+    background-image: url(/projectTwo/images/blanket-1245171_1280.jpg);
+}
+
+h2 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 4px;
+    border: 3px solid rgb(21, 49, 17);
+    background-color: rgb(139, 189, 121);
+    width: 50%;
+}
+
+p { 
+
+    margin: auto;
+    padding: 1%;
+    text-align: justify;
+}
+
+#aboutUs {
+
+    margin: auto;
+    padding: 3%;
+    width: 76%;
+    text-align: center;
+}
+
+.navbar {
+
+    background-color: rgb(139, 189, 121);
+    border: 2px solid rgb(21, 49, 17);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#crochetExamples {
+
+    text-align: center;
+    width: 50%; 
+    margin: auto; 
+    padding: 0%; 
+    border: 8px solid rgb(21, 49, 17);
+}
+
+#crochetExamplesAccordion {
+
+    width: 75%;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: rgb(139, 189, 121);
+    color: rgb(235, 255, 201);
+  }
+
+  .accordion-header,
+  .accordion-button {
+
+    width: 100%;
+  }
+
+  .accordion-body {
+
+    background-color: rgb(235, 255, 201);
+  }
+
+  .card-body,
+  .card {
+
+   background-color: rgb(235, 255, 201);
+   padding: 10px;
+
+  }
