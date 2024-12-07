@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#catHat {
+  background-image: url(./assets/catHat.JPEG);
+  background-size: contain;
+
+}
+
+#balaclava {
+  background-image: url(./assets/balaclava.JPEG);
+  background-size: contain;
+}
+
+#beanie {
+  background-image: url(./assets/babyBeanie.jpeg);
+  background-size: contain;
+}
+
+#greenSweater {
+  background-image: url(./assets/greenSweater.JPEG);
+  background-size: contain;
+}
+
